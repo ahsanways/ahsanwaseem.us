@@ -1,8 +1,23 @@
 {
-    "name": "Ahsan Waseem — Senior Backend Engineer",
-    "short_name": "Ahsan Waseem",
-    "start_url": "/",
-    "display": "standalone",
-    "background_color": "#000000",
-    "theme_color": "#000000"
-  }
+  "name": "Ahsan Waseem — Senior Backend Engineer",
+  "short_name": "Ahsan Waseem",
+  "description": "Backend engineer portfolio — Java, Spring Boot, Kafka, distributed systems.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon",
+      "purpose": "any"
+    },
+    {
+      "src": "/profile-img.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
