@@ -1,8 +1,4 @@
-# https://ahsanwaseem.us — allow indexing of static portfolio
-User-agent: *
+User-Agent: *
 Allow: /
-
-# Disallow API routes if ever proxied (static export: N/A)
-Disallow: /api/
 
 Sitemap: https://ahsanwaseem.us/sitemap.xml
