@@ -1,0 +1,135 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="72" y1="36" x2="1488" y2="964" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C2331"/>
+      <stop offset="0.45" stop-color="#081120"/>
+      <stop offset="1" stop-color="#0A0F1D"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="190" y1="118" x2="1336" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3DD9FF"/>
+      <stop offset="1" stop-color="#45E0B7"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="876" y1="226" x2="1450" y2="886" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C2438"/>
+      <stop offset="1" stop-color="#171E30"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(262 304) rotate(37.38) scale(421.908 301.819)">
+      <stop stop-color="#2DD4BF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1216 210) rotate(111.82) scale(371.458 402.59)">
+      <stop stop-color="#7C3AED" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="0" y="0" width="1600" height="1000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="32"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1000" rx="36" fill="url(#bg)"/>
+  <rect width="1600" height="1000" rx="36" fill="url(#glowLeft)"/>
+  <rect width="1600" height="1000" rx="36" fill="url(#glowRight)"/>
+
+  <g opacity="0.08">
+    <path d="M0 84H1600" stroke="#94A3B8"/>
+    <path d="M0 190H1600" stroke="#94A3B8"/>
+    <path d="M0 296H1600" stroke="#94A3B8"/>
+    <path d="M0 402H1600" stroke="#94A3B8"/>
+    <path d="M0 508H1600" stroke="#94A3B8"/>
+    <path d="M0 614H1600" stroke="#94A3B8"/>
+    <path d="M0 720H1600" stroke="#94A3B8"/>
+    <path d="M0 826H1600" stroke="#94A3B8"/>
+    <path d="M0 932H1600" stroke="#94A3B8"/>
+    <path d="M110 0V1000" stroke="#94A3B8"/>
+    <path d="M250 0V1000" stroke="#94A3B8"/>
+    <path d="M390 0V1000" stroke="#94A3B8"/>
+    <path d="M530 0V1000" stroke="#94A3B8"/>
+    <path d="M670 0V1000" stroke="#94A3B8"/>
+    <path d="M810 0V1000" stroke="#94A3B8"/>
+    <path d="M950 0V1000" stroke="#94A3B8"/>
+    <path d="M1090 0V1000" stroke="#94A3B8"/>
+    <path d="M1230 0V1000" stroke="#94A3B8"/>
+    <path d="M1370 0V1000" stroke="#94A3B8"/>
+    <path d="M1510 0V1000" stroke="#94A3B8"/>
+  </g>
+
+  <rect x="112" y="40" width="1376" height="102" rx="38" fill="#091224" stroke="#23324A" stroke-width="2"/>
+  <rect x="142" y="57" width="52" height="52" rx="20" fill="#22315B" stroke="#3DB7FF"/>
+  <text x="167" y="92" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="middle">B</text>
+  <text x="210" y="82" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">BeTherr</text>
+  <text x="212" y="111" fill="#A5B4C8" font-family="Inter, Arial, sans-serif" font-size="16" letter-spacing="5">LAUNCHING SOON</text>
+  <text x="548" y="92" fill="#D4DCE7" font-family="Inter, Arial, sans-serif" font-size="18">Platform</text>
+  <text x="635" y="92" fill="#D4DCE7" font-family="Inter, Arial, sans-serif" font-size="18">AI Engine</text>
+  <text x="731" y="92" fill="#D4DCE7" font-family="Inter, Arial, sans-serif" font-size="18">Solutions</text>
+  <text x="846" y="92" fill="#D4DCE7" font-family="Inter, Arial, sans-serif" font-size="18">Roadmap</text>
+  <text x="944" y="92" fill="#D4DCE7" font-family="Inter, Arial, sans-serif" font-size="18">Impact</text>
+  <text x="1016" y="92" fill="#D4DCE7" font-family="Inter, Arial, sans-serif" font-size="18">About</text>
+  <text x="1085" y="92" fill="#D4DCE7" font-family="Inter, Arial, sans-serif" font-size="18">Contact</text>
+  <rect x="1290" y="57" width="160" height="52" rx="26" fill="#12314A" stroke="#3DB7FF"/>
+  <text x="1370" y="90" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Join Pilot Waitlist</text>
+
+  <rect x="114" y="250" width="472" height="44" rx="22" fill="#11283B" stroke="#2D8DAF"/>
+  <text x="138" y="278" fill="#46D7FF" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4">LAUNCHING SOON • AI LOGISTICS PLATFORM</text>
+
+  <text x="114" y="382" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="82" font-weight="700">
+    <tspan x="114" dy="0">AI-powered</tspan>
+    <tspan x="114" dy="96">transportation and</tspan>
+    <tspan x="114" dy="96">logistics intelligence for</tspan>
+    <tspan x="114" dy="96">routing, demand, and</tspan>
+    <tspan x="114" dy="96">driver compensation.</tspan>
+  </text>
+
+  <text x="114" y="814" fill="#C7D1DE" font-family="Inter, Arial, sans-serif" font-size="22">
+    <tspan x="114" dy="0">BeTherr is building a cloud-native SaaS platform that helps logistics, delivery, and</tspan>
+    <tspan x="114" dy="44">fleet operators forecast demand, optimize routes, allocate drivers, automate</tspan>
+    <tspan x="114" dy="44">compensation workflows, and improve operational reliability through AI and</tspan>
+    <tspan x="114" dy="44">scalable microservices.</tspan>
+  </text>
+
+  <rect x="114" y="930" width="228" height="62" rx="31" fill="url(#teal)"/>
+  <text x="228" y="969" fill="#081120" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Join Pilot Waitlist →</text>
+  <rect x="360" y="930" width="176" height="62" rx="31" fill="#1D2434" stroke="#3A455E"/>
+  <text x="448" y="969" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Explore Platform</text>
+
+  <rect x="114" y="1010" width="206" height="44" rx="22" fill="#131B29" stroke="#2E374A"/>
+  <rect x="338" y="1010" width="332" height="44" rx="22" fill="#131B29" stroke="#2E374A"/>
+
+  <g>
+    <rect x="898" y="208" width="588" height="666" rx="34" fill="url(#panel)" stroke="#33435D"/>
+    <text x="952" y="292" fill="#46D7FF" font-family="Inter, Arial, sans-serif" font-size="17" letter-spacing="5">PROTOTYPE DASHBOARD</text>
+    <text x="952" y="370" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="700">
+      <tspan x="952" dy="0">Operational</tspan>
+      <tspan x="952" dy="50">intelligence cockpit</tspan>
+    </text>
+    <rect x="1236" y="312" width="214" height="60" rx="30" fill="#183B45" stroke="#2D8DAF"/>
+    <text x="1264" y="350" fill="#4BE1C1" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">AI SIGNAL: LIVE</text>
+    <text x="1264" y="374" fill="#4BE1C1" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">OPTIMIZATION</text>
+    <path d="M952 408H1450" stroke="#33435D"/>
+
+    <rect x="952" y="442" width="220" height="170" rx="24" fill="#20283B" stroke="#34445E"/>
+    <rect x="1190" y="442" width="220" height="170" rx="24" fill="#20283B" stroke="#34445E"/>
+    <rect x="952" y="630" width="220" height="170" rx="24" fill="#20283B" stroke="#34445E"/>
+    <rect x="1190" y="630" width="220" height="170" rx="24" fill="#20283B" stroke="#34445E"/>
+
+    <text x="976" y="486" fill="#C7D1DE" font-family="Inter, Arial, sans-serif" font-size="18">Demand Forecast</text>
+    <text x="976" y="544" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">+18% accuracy</text>
+    <text x="976" y="584" fill="#46D7FF" font-family="Inter, Arial, sans-serif" font-size="16" letter-spacing="3">PROTOTYPE GOAL</text>
+
+    <text x="1214" y="486" fill="#C7D1DE" font-family="Inter, Arial, sans-serif" font-size="18">Route Efficiency</text>
+    <text x="1214" y="544" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">-12% miles</text>
+    <text x="1214" y="584" fill="#46D7FF" font-family="Inter, Arial, sans-serif" font-size="16" letter-spacing="3">TARGET INDICATOR</text>
+
+    <text x="976" y="674" fill="#C7D1DE" font-family="Inter, Arial, sans-serif" font-size="18">Compensation Audit</text>
+    <text x="976" y="732" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">99.9% traceability</text>
+    <text x="976" y="772" fill="#46D7FF" font-family="Inter, Arial, sans-serif" font-size="16" letter-spacing="3">PROTOTYPE GOAL</text>
+
+    <text x="1214" y="674" fill="#C7D1DE" font-family="Inter, Arial, sans-serif" font-size="18">System Health</text>
+    <text x="1214" y="732" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">99.9% uptime</text>
+    <text x="1214" y="772" fill="#46D7FF" font-family="Inter, Arial, sans-serif" font-size="16" letter-spacing="3">ROADMAP TARGET</text>
+  </g>
+
+  <g filter="url(#softGlow)" opacity="0.14">
+    <circle cx="274" cy="380" r="124" fill="#2DD4BF"/>
+    <circle cx="1214" cy="194" r="124" fill="#3B82F6"/>
+  </g>
+</svg>
