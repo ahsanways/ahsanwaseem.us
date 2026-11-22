@@ -1,17 +1,16 @@
 {
-  "name": "Ahsan Waseem — Senior Software Engineer",
+  "name": "Ahsan Waseem — Software Engineer at Amazon",
   "short_name": "Ahsan Waseem",
-  "description": "Portfolio of Ahsan Waseem, Senior Software Engineer.",
+  "description": "Ahsan Waseem — software engineer at Amazon in Denver. Ask his AI guide about his work, music, and strong opinions on lighting.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#09090b",
-  "theme_color": "#09090b",
+  "background_color": "#07070c",
+  "theme_color": "#07070c",
   "icons": [
     {
       "src": "/favicon.ico",
-      "sizes": "48x48",
-      "type": "image/x-icon",
-      "purpose": "any"
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon"
     },
     {
       "src": "/android-chrome-192.png",

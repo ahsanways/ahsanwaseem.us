@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/2bd3fc586a04aa95.js","/_next/static/chunks/6c1ada34cd9d36a5.js","/_next/static/chunks/6c4cfbf93e882284.js","/_next/static/chunks/2fd79821719339eb.js"],""]
+3:I[97367,["/_next/static/chunks/711d972d5af8f425.js","/_next/static/chunks/3d6ba8f30d418c84.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"sT-wgbEuoFxEO-9JG_Bop","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-[70vh] flex flex-col items-center justify-center text-center px-6","style":{"background":"#07070e","paddingTop":"60px"},"children":[["$","p",null,{"className":"s1-label mb-6","children":"Engineering journal"}],["$","h1",null,{"className":"font-heading text-4xl md:text-6xl","style":{"color":"var(--s1-text-0)"},"children":"First post coming soon."}],["$","$L2",null,{"href":"/","className":"s1-btn mt-10","children":"← Home"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/2fd79821719339eb.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
